@@ -8,6 +8,4 @@ Add entries below with date, contributor, and brief summary of changes.
 - Updated `deployment/README.md` to reference screenshots in `deployment/screenshots`
 - Added initial project files: `deployment/README.md`, `report/cost-estimate.md`
 
-Notes:
-- If any placeholder screenshot files were reverted, re-add them under `deployment/screenshots/` when ready.
 

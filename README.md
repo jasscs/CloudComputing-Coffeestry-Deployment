@@ -1,4 +1,4 @@
-(# Coffeestry — Azure Deployment & Demo
+# Coffeestry — Azure Deployment & Demo
 
 ## Project Overview
 
