@@ -16,8 +16,3 @@ Coffeestry is a Python + Flet coffee shop management application deployed on Mic
 - Video walkthrough: (insert video link here)
 
 ---
-
-For deployment details, see the deployment folder: `deployment/README.md`.
-For cost estimates, see: `report/cost-estimate.md`.
-)
-
