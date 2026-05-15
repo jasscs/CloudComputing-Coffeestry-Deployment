@@ -104,7 +104,7 @@ After deployment, the Overview page displays:
 
 This confirms successful deployment of the compute resource.
 
-![VM Overview](screenshots/vm-overview-placeholder.svg)
+![alt text](screenshots/6.png)
 
 ---
 
